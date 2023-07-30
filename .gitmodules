@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/csdaw/csdaw.r-universe.dev
 	branch = HEAD
-[submodule "ggprism"]
-	path = ggprism
-	url = https://github.com/csdaw/ggprism
+[submodule "uniprotREST"]
+	path = uniprotREST
+	url = https://github.com/csdaw/uniprotREST
